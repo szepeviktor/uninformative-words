@@ -2,12 +2,19 @@
 
 Variable names you should a void.
 
-- data
-- value
-- key
-- elem
-- item
-- info
-- detail
+- `i` 👺
+- any one or two letter name except `id`
+- `bool`
+- `custom`
+- `detail`
+- `data` 👺
+- `elem`
+- `extra`
+- `info`
+- `item`
+- `key`
+- `more`
+- `return`
+- `value` 👺
 
-TODO sort, JSON, XML, YAML
+TODO sort, -i, regexp, JSON, XML, YAML, find "getData"
