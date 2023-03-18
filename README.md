@@ -14,8 +14,10 @@ Variable names you should avoid.
 - `item`
 - `key`
 - `more`
+- `other`
 - `ret`
 - `return`
 - `value` 👺
+- `var`
 
 TODO sort, -i, regexp, JSON, XML, YAML, find "getData"
