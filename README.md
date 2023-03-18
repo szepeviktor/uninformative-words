@@ -21,3 +21,7 @@ Variable names you should avoid.
 - `var`
 
 TODO sort, -i, regexp, JSON, XML, YAML, find "getData"
+
+## Contributing
+
+📢 Come on! [Add a word](https://github.com/szepeviktor/uninformative-words/edit/master/README.md). Pull Request are free.
