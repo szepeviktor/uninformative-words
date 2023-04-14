@@ -1,5 +1,7 @@
 # Uninformative words
 
+[![theories](https://img.shields.io/badge/more-theories-purple)](https://github.com/stars/szepeviktor/lists/theory)
+
 Variable names you should avoid.
 
 - `i` 👺
