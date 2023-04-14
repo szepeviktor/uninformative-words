@@ -6,23 +6,42 @@ Variable names you should avoid.
 
 - `i` 👺
 - any one or two letter name except `id`
+- `arr`
 - `bool`
+- `boolean`
+- `cnt`
+- `col`
+- `coll`
 - `custom`
 - `detail`
 - `data` 👺
+- `double`
 - `elem`
+- `err`
 - `extra`
+- `float`
+- `impl`
+- `ind`
 - `info`
+- `int`
+- `integer`
 - `item`
+- `iter`
 - `key`
+- `len`
 - `more`
 - `other`
+- `proc`
+- `req`
+- `res`
 - `ret`
 - `return`
+- `str`
 - `value` 👺
 - `var`
+- `vdata`
 
-TODO sort, -i, regexp, JSON, XML, YAML, find "getData"
+TODO -i, regexp, JSON, XML, YAML, find "getData"
 
 ## Contributing
 
