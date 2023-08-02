@@ -41,7 +41,7 @@ Variable names you should avoid.
 - `var`
 - `vdata`
 
-TODO -i, regexp, find "getData"
+TODO -i, find "getData"
 
 ## Implementations
 
