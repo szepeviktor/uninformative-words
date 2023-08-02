@@ -41,7 +41,7 @@ Variable names you should avoid.
 - `var`
 - `vdata`
 
-TODO -i, regexp, JSON, XML, YAML, find "getData"
+TODO -i, regexp, find "getData"
 
 ## Implementations
 

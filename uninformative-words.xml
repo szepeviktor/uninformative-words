@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uninformative-words>
+    <word>i</word>
+    <word>arr</word>
+    <word>bool</word>
+    <word>boolean</word>
+    <word>cnt</word>
+    <word>col</word>
+    <word>coll</word>
+    <word>custom</word>
+    <word>detail</word>
+    <word>data</word>
+    <word>double</word>
+    <word>elem</word>
+    <word>err</word>
+    <word>extra</word>
+    <word>float</word>
+    <word>impl</word>
+    <word>ind</word>
+    <word>info</word>
+    <word>int</word>
+    <word>integer</word>
+    <word>item</word>
+    <word>iter</word>
+    <word>key</word>
+    <word>len</word>
+    <word>more</word>
+    <word>other</word>
+    <word>proc</word>
+    <word>req</word>
+    <word>res</word>
+    <word>ret</word>
+    <word>return</word>
+    <word>str</word>
+    <word>value</word>
+    <word>var</word>
+    <word>vdata</word>
+</uninformative-words>
